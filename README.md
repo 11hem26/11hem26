@@ -1,145 +1,222 @@
-# 👋 Hi, I'm Hemanth
+# 👋 Hey, I'm Hemanth!
 
-### 🎓 BCA Student | 💻 Developer | 🤖 AI & ML Enthusiast
+<div align="center">
 
-I'm a BCA student passionate about building practical software projects using **Python, AI/ML, Web Development, IoT, and modern technologies**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+Student+%7C+Developer;Python+%7C+AI+%7C+Machine+Learning;Web+Development+%7C+IoT;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation" />
 
-I enjoy turning ideas into working applications and continuously learning new technologies.
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=11hem26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-## 🚀 About Me
-
-* 🎓 Bachelor of Computer Applications (BCA)
-* 💻 Interested in **Python & Web Development**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🌐 Building useful web applications
-* 🔌 Interested in **IoT & ESP32 projects**
-* 📚 Learning new technologies through hands-on projects
-* 🚀 Currently improving my GitHub portfolio
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧑‍💻 About Me
 
-### Programming
+```python
+class Hemanth:
 
-`Python` `C` `Java` `JavaScript`
+    name = "Hemanth"
+    education = "BCA Student"
 
-### Web Development
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Python Development",
+        "Web Development",
+        "IoT & ESP32"
+    ]
 
-`HTML` `CSS` `JavaScript` `Flask` `Streamlit`
+    currently_building = [
+        "AI Projects",
+        "Student Tools",
+        "Web Applications",
+        "IoT Projects"
+    ]
 
-### AI & Machine Learning
+    goal = "Build useful technology and keep learning 🚀"
+```
 
-`Artificial Intelligence` `Machine Learning` `OpenCV` `Data Science`
+---
 
-### Database
+## ⚡ Tech Stack
 
-`SQLite` `MySQL`
+### 💻 Programming
 
-### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
+</p>
 
-`Git` `GitHub` `VS Code` `Arduino IDE`
+### 🌐 Web Development
 
-### Hardware / IoT
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+</p>
 
-`ESP32` `ESP32-CAM` `Sensors` `Telegram Bot`
+### 🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏠 AI Home Security System
+<table>
+<tr>
+<td width="50%">
 
-Software-based home security application with webcam monitoring, motion detection, image capture and Telegram notifications.
+### 🏠 AI Home Security
 
-**Tech:** Python • Flask • OpenCV • JavaScript • Telegram Bot
+Software-based security system using webcam monitoring, motion detection, image capture and Telegram notifications.
 
----
+**Tech:** Python • Flask • OpenCV • JavaScript • Telegram
+
+</td>
+
+<td width="50%">
 
 ### 🎓 StudentHub
 
-A student-focused web platform containing useful academic tools and resources.
-
-**Features include:**
-
-* CGPA Calculator
-* SGPA Calculator
-* Percentage Calculator
-* Attendance Calculator
-* BCA Project Ideas
-* Resume Builder
-* QR Generator
-* Pomodoro Timer
-* Timetable
+Student utility website with academic calculators and productivity tools.
 
 **Tech:** HTML • CSS • JavaScript
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛡️ Fake Website Detection
 
-Machine-learning based project designed to identify potentially fraudulent or suspicious websites.
+Machine-learning project for identifying potentially fraudulent websites.
 
-**Tech:** Python • Machine Learning • Streamlit
+**Tech:** Python • ML • Streamlit
 
----
+</td>
 
-### 📸 AI Attendance Management System
+<td width="50%">
 
-Student attendance management application with student registration, webcam functionality and attendance records.
+### 📸 AI Attendance
 
-**Tech:** HTML • CSS • JavaScript • Browser Camera API
+Student attendance management application with camera functionality and attendance records.
 
----
+**Tech:** HTML • CSS • JavaScript
 
-### 🚗 ESP32 IoT RC Car
+</td>
+</tr>
 
-DIY remote-controlled 4WD car project using ESP32 with wireless control.
+<tr>
+<td width="50%">
 
-**Tech:** ESP32 • Bluetooth • Arduino • Motor Driver
+### 🚗 ESP32 RC Car
 
----
+DIY wireless 4WD RC car using ESP32 and motor control.
 
-## 📚 Currently Learning
+**Tech:** ESP32 • Arduino • Bluetooth
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🌐 Advanced Web Development
-* 🐍 Python Development
-* 🔌 IoT & ESP32
-* 📊 Data Science
-* ☁️ Cloud & Deployment
+</td>
 
----
+<td width="50%">
 
-## 🎯 Goals
+### 🤖 AI & Web Projects
 
-> Build useful projects, improve my programming skills, contribute to open-source projects, and grow as a software developer.
+Continuously building experimental applications combining AI, automation and web technologies.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=11hem26\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11hem26\&layout=compact\&theme=tokyonight\&hide_border=true)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=11hem26\&theme=tokyonight\&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=11hem26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11hem26&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 Contribution Streak
 
-* 🐙 GitHub: [@11hem26](https://github.com/11hem26)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=11hem26&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🐍 Contribution Activity
 
-**Keep Learning • Keep Building • Keep Improving 🚀**
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/11hem26/11hem26/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build more real-world projects
+* 🤖 Improve AI & Machine Learning skills
+* 🌐 Develop advanced web applications
+* 🔌 Build more ESP32 / IoT projects
+* 📚 Strengthen programming fundamentals
+* 🌎 Start contributing to open-source
+* 💼 Build a strong developer portfolio
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python              ████████████████████░░
+Artificial Intel.   ██████████████████░░░░
+Machine Learning    ████████████████░░░░░░
+Web Development     ███████████████████░░░
+IoT / ESP32         ███████████████░░░░░░░
+Git & GitHub        ████████████████████░░
+```
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/11hem26">
+<img src="https://img.shields.io/badge/GitHub-11hem26-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Improve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+
+</div>
